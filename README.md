@@ -1,6 +1,6 @@
 # Programming Languages Recommender System
 This recommender system is written in Java Expert System Shell (JESS).
-This was a university mini project, I created a rule engine using JESS to recomend the best programming language the user choose pick
+This was a university mini project, I created a rule engine using JESS to recommend the best programming language the user choose pick
 as a starting language.
 The rule engine interacts with the user through targeted questions to collect facts about the user, so we can recomend a programming language.
 The knowledge was extracted as a flow chart from this infographic, link: http://carlcheo.com/wp-content/uploads/2014/12/which-programming-language-should-i-learn-first-infographic.png
