@@ -24,7 +24,7 @@
 ;;;;;;;;;;;;;;;;;;;
 (defrule starter
     =>
-    (printout t "Why do you to lean programming ?" crlf "for_my_kids" crlf "don't_know" crlf "interested" crlf "for_money" crlf)
+    (printout t "Why do you to learn programming ?" crlf "for_my_kids" crlf "don't_know" crlf "interested" crlf "for_money" crlf)
     (bind ?answer (read))
     (if (= ?answer "for_my_kids")then 
         (assert (reason(answer kids)))
